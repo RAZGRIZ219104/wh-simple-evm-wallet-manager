@@ -1,4 +1,5 @@
 # Sensitive files containing private keys
+env.dat
 env.dec.dat
 decrypted_keys.env
 *.dec.dat
